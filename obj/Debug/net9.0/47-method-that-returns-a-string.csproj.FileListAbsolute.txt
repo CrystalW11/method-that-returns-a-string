@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Deb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\ref\47-method-that-returns-a-string.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.sourcelink.json

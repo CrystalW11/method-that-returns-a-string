@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("47-method-that-returns-a-string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61edaaedfcd30cc218732be73ec70bc17060315")]
 [assembly: System.Reflection.AssemblyProductAttribute("47-method-that-returns-a-string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("47-method-that-returns-a-string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
