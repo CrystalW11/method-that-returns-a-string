@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\bin\Debug\net9.0\47-method-that-returns-a-string.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\bin\Debug\net9.0\47-method-that-returns-a-string.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\bin\Debug\net9.0\47-method-that-returns-a-string.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\bin\Debug\net9.0\47-method-that-returns-a-string.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\bin\Debug\net9.0\47-method-that-returns-a-string.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\refint\47-method-that-returns-a-string.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\47-method-that-returns-a-string.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\47-method-that-returns-a-string\obj\Debug\net9.0\ref\47-method-that-returns-a-string.dll
